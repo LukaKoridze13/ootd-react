@@ -1,0 +1,26 @@
+{
+  "name": "Outfit of the Day",
+  "short_name": "Outfit of the Day",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "scope": "/"
+}
